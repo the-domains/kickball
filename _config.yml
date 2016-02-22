@@ -2,12 +2,13 @@ name: Kickball
 favicon: null
 layout_spectrum: 0.411518789594993
 typography_spectrum: 0.8106041965074837
+title: Bush League Kickball
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-73349047-4
   facebook: null
   twitter: null
 opengraph:
